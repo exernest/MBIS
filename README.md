@@ -14,6 +14,6 @@
 1.初始生成  
 
 
-## 致谢  
+## Q&A  
 本项目几乎全部排班表均由[排班生成器](https://yituliu.site/riicCal/)生成  
 本项目仅适配[MAA](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
