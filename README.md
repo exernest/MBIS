@@ -61,6 +61,6 @@ PS:爱丽丝/车尔尼+"补满空位"功能 如果剩余干员全为满心情可
 </details>
 
 ## Q&A  
+本项目仅适配[MAA](https://github.com/MaaAssistantArknights/MaaAssistantArknights)  
 本项目几乎全部排班表均由[排班生成器](https://yituliu.site/riicCal/)生成  
-本项目仅适配[MAA](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-本项目仅适配"简中服(国服)"，其他服务器自行测试
+本项目仅适配"简中服(国服)"，其他服务器自行测试  
